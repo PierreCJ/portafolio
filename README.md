@@ -1,5 +1,5 @@
 # Data Analyst
-#### Technical Skills: Python, SQL, Tableu
+#### Technical Skills: Python, SQL, Tableau
 
 ### Education
 - Mechatronic Engineering | Universidad Tecnologica del Perú (_December 2024_)
