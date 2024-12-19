@@ -1,5 +1,5 @@
 # Data Analyst
-technical skills: python, SQL, tableu
+#### Technical Skills: Python, SQL, Tableu
 ### Education
 Mechatronic Engineering
 
